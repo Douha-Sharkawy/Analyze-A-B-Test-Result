@@ -4,5 +4,7 @@ The project consists of three parts to make useful statistics:
 
 
 Part I - Probability
+
 Part II - A/B Test
+
 Part III - Regression**
